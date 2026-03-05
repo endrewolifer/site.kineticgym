@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/endrew77/public_html/site.kineticgym/
+    - export DEPLOYPATH=/home1/endrew77/repositories/site.kineticgym/
     - /bin/cp -R * $DEPLOYPATH
